@@ -66,7 +66,13 @@ Kuis Keahlian Linkedin
 <li>.NET is a general-purpose programming language. The language has expanded significantly over time, and now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation</li>
 <li>.NET is a free, cross platform, open source developer platform for building many different types of applications with multiple languages, editors, and libraries for web, mobile, desktop, gaming and IoT</li>
 <li>.NET is a virtual machine that enables a computer to run programs written in several languages and compile programs to bytecode</li> </ol>
-  
+
+<details>
+<summary markdown="span">Answer :</summary>
+<p align="justify"> c. .NET is a free, cross platform, open source developer platform for building many different types of applications with multiple languages, editors, and libraries for web, mobile, desktop, gaming and IoT</p>
+</details>
+</br>
+
 7. Why would the .NET framework use normal-JIT (Just-in-time)  
   <ol type="a" align="justify">
 <li>to compile only the methods that are called at run time and them from memory after execution </li>
