@@ -60,6 +60,12 @@ Kuis Keahlian Linkedin
 <li>host an ASP.NET Core app inside of the IIS worker process, called the out-of-process hosting model or forward web request to a backend ASP.NET Core app running the kestrel server, called the in process hosting model</li>
 <li>  host an ASP.Net core app inside of the IIS worker process, called the in process hosting model or forward web requests to a backend ASP.NET Core app running the kestrel server, called the out of process hosting model</li></ol>
 
+<details>
+<summary markdown="span">Answer :</summary>
+<p align="justify"> d. host an ASP.Net core app inside of the IIS worker process, called the in process hosting model or forward web requests to a backend ASP.NET Core app running the kestrel server, called the out of process hosting model</p>
+</details>
+</br>
+
 6. What is .NET?
 <ol type="a" align="justify">
 <li>.NET is an interpreted, high-level, general-purpose programming language, its language contructs an object-oriented approach aimed at helping programmers write clear; logical code for small and large-scle projects</li>
