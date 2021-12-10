@@ -67,12 +67,12 @@ Kuis Keahlian Linkedin
 <li>.NET is a free, cross platform, open source developer platform for building many different types of applications with multiple languages, editors, and libraries for web, mobile, desktop, gaming and IoT</li>
 <li>.NET is a virtual machine that enables a computer to run programs written in several languages and compile programs to bytecode</li> </ol>
   
-  
+7. Why would the .NET framework use normal-JIT (Just-in-time)  
   <ol type="a" align="justify">
-<li>
-<li>
-<li>  
-<li>
+<li>to compile only the methods that are called at run time and them from memory after execution </li>
+<li>to compile complete source code into native code in a single complitation cycle during deployment of the application</li>
+<li>to compile only the methods that are called at run time and then store them in cache for one minute</li>
+<li>to compile only methods called at run time which are compiled the forst time methods are called and then stored in cache to be used for execution when the same methods are called again</li></ol>
   
   
 
