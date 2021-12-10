@@ -85,6 +85,11 @@ Kuis Keahlian Linkedin
 <li>to compile complete source code into native code in a single complitation cycle during deployment of the application</li>
 <li>to compile only the methods that are called at run time and then store them in cache for one minute</li>
 <li>to compile only methods called at run time which are compiled the forst time methods are called and then stored in cache to be used for execution when the same methods are called again</li></ol>
-  
+
+<details>
+<summary markdown="span">Answer :</summary>
+<p align="justify"> d. to compile only methods called at run time which are compiled the forst time methods are called and then stored in cache to be used for execution when the same methods are called again</p>
+</details>
+</br>
   
 
