@@ -40,7 +40,7 @@ Kuis Keahlian Linkedin
 </details>
 </br>
   
-Which statement about the this keyword is not true 
+4. Which statement about the this keyword is not true 
   <ol type="a" align="justify">
 <li>a contructor can use a base statement and a this statement if the base statement comes first</li>
   <li>the this keyword lets a constructor call a different contructor in the same class</li>
@@ -52,29 +52,20 @@ Which statement about the this keyword is not true
 <p align="justify"> a. a contructor can use a base statement and a this statement if the base statement comes first</p>
 </details>
 </br>
-  
-  <ol type="a" align="justify">
-<li>
-<li>
-<li>  
-<li>  
-    <ol type="a" align="justify">
-<li>
-<li>
-<li>  
-<li>  
-  
-  
-  <ol type="a" align="justify">
-<li>
-<li>
-<li>  
-<li>
-    <ol type="a" align="justify">
-<li>
-<li>
-<li>  
-<li>  
+
+5. The ASP.NET Core Module is a native IIS module that plugs into the IIS pipeline to either
+<ol type="a" align="justify">
+<li>package up your c# applications and C# packaged into .NET modules, or specify which of its packages should be visible to other .NET modules</li>
+<li>create IIS code the server needs in a file with the extension required, or run the IIS server in a mode compatible for ASP.NET Core</li>
+<li>host an ASP.NET Core app inside of the IIS worker process, called the out-of-process hosting model or forward web request to a backend ASP.NET Core app running the kestrel server, called the in process hosting model</li>
+<li>  host an ASP.Net core app inside of the IIS worker process, called the in process hosting model or forward web requests to a backend ASP.NET Core app running the kestrel server, called the out of process hosting model</li></ol>
+
+6. What is .NET?
+<ol type="a" align="justify">
+<li>.NET is an interpreted, high-level, general-purpose programming language, its language contructs an object-oriented approach aimed at helping programmers write clear; logical code for small and large-scle projects</li>
+<li>.NET is a general-purpose programming language. The language has expanded significantly over time, and now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation</li>
+<li>.NET is a free, cross platform, open source developer platform for building many different types of applications with multiple languages, editors, and libraries for web, mobile, desktop, gaming and IoT</li>
+<li>.NET is a virtual machine that enables a computer to run programs written in several languages and compile programs to bytecode</li> </ol>
   
   
   <ol type="a" align="justify">
@@ -83,32 +74,5 @@ Which statement about the this keyword is not true
 <li>  
 <li>
   
-  <ol type="a" align="justify">
-<li>
-<li>
-<li>  
-<li>  
-    <ol type="a" align="justify">
-<li>
-<li>
-<li>  
-<li>  
   
-  
-  <ol type="a" align="justify">
-<li>
-<li>
-<li>  
-<li>
-    <ol type="a" align="justify">
-<li>
-<li>
-<li>  
-<li>  
-  
-  
-  <ol type="a" align="justify">
-<li>
-<li>
-<li>  
-<li>
+
